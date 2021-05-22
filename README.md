@@ -1,10 +1,10 @@
-CHAPTER 12.0
+CHAPTER 12
 
 feature/prj-11-setup
 feature/prj-11-setup
 
 Jenkins & New Change
-# Chapter11
+From Chapter11
 
 main
 This is our first repo
