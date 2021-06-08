@@ -1,15 +1,15 @@
 [tooling]
-172.31.17.140
+172.31.11.203
 
 [todo]
-172.31.22.164
+172.31.3.48
 
 [nginx]
-172.31.31.132
+172.31.83.45
 
 [db:vars]
 ansible_user=ec2-user
 ansible_python_interpreter=/usr/bin/python
 
 [db]
-172.31.23.252
+172.31.2.204
